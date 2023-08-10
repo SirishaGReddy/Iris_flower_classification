@@ -13,6 +13,9 @@ The central goal is to design a model that makes proper classifications for new 
 The first step is to prepare the data set. This is the source of information for the classification problem. For that, we need to configure the following concepts:
 
 Data source.
+
 Variables.
+
 Instances.
+
 The data source is the file iris_flowers.csv. It contains the data for this example in comma-separated values (CSV) format. The number of columns is 5, and the number of rows is 150.
